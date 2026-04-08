@@ -31,3 +31,6 @@ Predict house prices in Bangalore with machine learning! This project uses Linea
 | Polynomial (Degree=2)| 0.999*          | -       |
 
 *⚠️ Polynomial Regression likely overfits due to near-perfect R².*
+
+
+Auto update via n8n: 1775646442
